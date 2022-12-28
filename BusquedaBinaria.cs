@@ -10,7 +10,7 @@ class BusquedaBinaria
         Console.WriteLine("Algoritmo de busqueda binaria: ");
         int[] A = { -8, 4, 5, 9, 12, 18, 25, 40, 60, 10, 19, -1, 99, 11, 33, 44, 56, 10, 78, 1 };
 
-        Console.WriteLine("Arreglo desordenado: ");
+        Console.WriteLine("Arreglo desordenado:  ");
         for (int i = 0; i < A.Length; i++)
         {
             Console.Write($"A[{i}] = " + A[i] + " ,");

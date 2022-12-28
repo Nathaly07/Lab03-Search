@@ -5,7 +5,7 @@ class BusquedaFinal
     static void Main1(string[] args)
     {
         int[] arreglo = new int[100];
-        int numExitos=0 , numFracasos=0;
+        int numExitos=0 , numFracasos = 0;
         Random r = new Random();
         Random numbuscar = new Random();
 

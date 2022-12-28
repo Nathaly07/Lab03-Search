@@ -6,7 +6,7 @@ class BusquedaLineal
     {
         Stopwatch time = new Stopwatch();
 
-        Console.WriteLine("Algoritmo de busqueda lineal");
+        Console.WriteLine("Algoritmo de busqueda lineal ");
         int[] A = { 79, 21, 15, 99, 88, 65, 75, 85, 76, 46, 84, 24, 12, 25, 43, 7 , 10, 9, 14, 8 };
 
         Console.WriteLine("Arreglo desordenado: ");
